@@ -1,4 +1,4 @@
 [dev]
-command = "node scripts/probe9.mjs"
+command = "node scripts/probe10.mjs"
 targetPort = 3999
 port = 8888
