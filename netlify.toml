@@ -1,0 +1,4 @@
+[dev]
+command = "node scripts/probe8.mjs"
+targetPort = 3999
+port = 8888
